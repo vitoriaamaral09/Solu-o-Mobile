@@ -22,7 +22,6 @@ class Loja(private val produtosDisponiveis: MutableList<Produto>) {
             }
         }
 
-        // Atualizar estoque e saldo
         for ((produto, quantidade) in carrinho.getItens()) {
             produto.estoque -= quantidade
         }
