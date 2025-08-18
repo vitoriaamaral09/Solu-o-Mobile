@@ -1,4 +1,6 @@
- Objetivo
+ *Objetivo*
+
+
 Desenvolver um sistema de Loja Virtual em Kotlin, utilizando Orientação a
 Objetos (POO). O sistema deve permitir que os clientes simulem a compra de
 produtos, adicionem itens ao carrinho de compras e finalizem a compra com
